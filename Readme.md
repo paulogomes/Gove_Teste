@@ -21,7 +21,7 @@ Foi criado as soluções em Python e também no Pentaho PDI
 **OBS:** Não esquecer de voltar na tarefa 2 e adicionar os endereços referentes ao docs sugeridos.
 
 
-## Como Para rodar o código do python:
+## Como rodar o código do python:
 
  - é necessário utilizar a versão Python 3.9
 
